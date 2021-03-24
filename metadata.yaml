@@ -1,0 +1,30 @@
+_repo: Short-Stories-Early-October-1923_64518
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2021-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+tableOfContents: The iron chalice, by Hapsburg Liebe -- The North Wind's message (verse),
+  by Danford G. Britton -- In memory of Henry Clay Manley, by Thomas McMorrow -- Fires
+  of fate, by W. C. Tuttle -- Make gold while the water runs, by Robert Russell Strang
+  -- The road to Monterey (part ii), by George Washington Ogden -- The Packet Admiral,
+  by W. E. Carleton -- Henry Hornbone's one-man war, by Helen Topping Miller -- From
+  one to another, by Earl C. McCain -- Desert drift, by John Briggs -- The story-teller's
+  circle.
+title: Short Stories. Early October, 1923
+url: http://www.gutenberg.org/ebooks/64518
